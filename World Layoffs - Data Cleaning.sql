@@ -1,9 +1,3 @@
--- Remove Duplicates
--- Standardize Data
--- Populate/Remove Null Or Blank Values
--- Remove Columns
-
-
 -- Removing Duplicates
 
 SELECT * 
